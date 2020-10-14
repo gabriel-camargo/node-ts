@@ -1,0 +1,29 @@
+{
+  "name": "node-ts",
+  "version": "0.0.1",
+  "description": "API de teste usando express e Typescript",
+  "main": "dist/app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gabriel-camargo/node-ts.git"
+  },
+  "keywords": [
+    "REST",
+    "API",
+    "ExpressJS",
+    "NodeJS",
+    "Typescript"
+  ],
+  "author": "Gabriel Camargo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gabriel-camargo/node-ts/issues"
+  },
+  "homepage": "https://github.com/gabriel-camargo/node-ts#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
